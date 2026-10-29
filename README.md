@@ -41,7 +41,7 @@ Descripción: ...
 ## 📫 Contacto
 
 - **GitHub:** [Consulta mis repositorios](https://github.com/mcontrerasc2005)
-- **Correo electrónico:** marccc2005@gmail.com.
+- 
 ---
 
 ⭐ *Gracias por visitar mi perfil!.*
