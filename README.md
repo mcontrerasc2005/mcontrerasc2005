@@ -10,12 +10,12 @@ Me gusta aprender mediante la práctica, resolver problemas y mejorar mis habili
 
 | Tecnología | Descripción |
 |---|---|
-| 🐍 **Python** | Programación y resolución de problemas |
-| 🌐 **HTML5** | Estructura de páginas web |
-| 🎨 **CSS3** | Diseño y estilos web |
-| ⚡ **JavaScript** | Interactividad en páginas web |
-| 🗄️ **MySQL** | Gestión y consultas de bases de datos |
-| 🐘 **PHP** | Desarrollo web del lado del servidor |
+| **Python** | Programación y resolución de problemas |
+| **HTML5** | Estructura de páginas web |
+| **CSS3** | Diseño y estilos web |
+| **JavaScript** | Interactividad en páginas web |
+| **MySQL** | Gestión y consultas de bases de datos |
+| **PHP** | Desarrollo web del lado del servidor |
 
 ![Python: lenguaje de programación](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML5: estructura web](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
